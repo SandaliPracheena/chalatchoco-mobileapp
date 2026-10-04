@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">ChalatChoco</string>
+
+    <!--    Sign up page-->
+    <string name="title">Sign Up</string>
+    <string name="text1">First Name</string>
+    <string name="text2">Last Name</string>
+    <string name="text3">Mobile</string>
+    <string name="text4">Email</string>
+    <string name="text5">Password</string>
+    <string name="button">Sign Up</string>
+    <string name="text6">Do you Already have an Account? Sign In</string>
+    <string name="text12">Are you an Admin?</string>
+
+    <!--    Sign In page-->
+    <string name="title2">Sign In</string>
+    <string name="text7">Email</string>
+    <string name="text8">Password</string>
+    <string name="text9">don’t have an Account? Create one</string>
+    <string name="text10">Forgot password?</string>
+
+    <!--    Home-->
+    <string name="title3">Chalat Choco</string>
+    <string name="email">user@gmail.com</string>
+    <string name="FirstName">User</string>
+    <string name="text11">Welcome to your favorite Choco shop</string>
+
+
+    <!--    item-->
+
+    <string name="item1">Home</string>
+    <string name="item2">Cart</string>
+    <string name="item3">Payment</string>
+    <string name="item4">Info</string>
+    <string name="item6">Map</string>
+    <string name="item5">Admin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--    choco item-->
+    <string name="chocoName">Kitkat</string>
+
+
+    <!--    Admin -->
+    <string name="admin">Sign In</string>
+    <string name="admin2">Welcome to Admin Profile</string>
+    <string name="adminLog1">Products ordering Prograss</string>
+    <string name="buttonR">Refresh</string>
+    <string name="buttonAdd">Add product</string>
+    <string name="add">Add</string>
+
+
+    <!--    Payment page-->
+
+    <string name="text13">Order Conformed</string>
+    <string name="text14">Thank you!</string>
+    <string name="text15">Price Rs500</string>
+    <string name="text16">We will contact you for further Details....</string>
+
+
+    <!--    product info-->
+    <string name="text17">Thanks for choosing Chalat Choco for your delicious  Journey</string>
+
+
+    <!--    info-->
+
+    <string name="buttonMsg">Message With Us</string>
+    <string name="buttonCall">Make a Call</string>
+    <string name="alert">Message</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+
+
+    <!--    forgot password-->
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="sendpin">Send Pin Number</string>
+    <string name="enter">Enter</string>
+
+
+</resources>

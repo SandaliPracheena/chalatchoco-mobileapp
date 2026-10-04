@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_menu_home"
+            android:title="@string/item1"
+            android:icon="@drawable/home"
+            />
+
+        <item
+            android:id="@+id/nav_menu_cart"
+            android:title="@string/item2"
+            android:icon="@drawable/cart"
+            />
+
+        <item
+            android:id="@+id/nav_menu_payment"
+            android:title="@string/item3"
+            android:icon="@drawable/payment"
+            />
+
+        <item
+            android:id="@+id/nav_menu_map"
+            android:title="@string/item6"
+            android:icon="@drawable/location"
+            />
+
+        <item
+            android:id="@+id/nav_menu_info"
+            android:title="@string/item4"
+            android:icon="@drawable/info"
+            />
+
+
+
+    </group>
+
+
+
+
+
+</menu>

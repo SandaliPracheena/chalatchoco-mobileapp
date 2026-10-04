@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564515667870",
+    "project_id": "chalatchoco",
+    "storage_bucket": "chalatchoco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564515667870:android:451f243576bac32493e08f",
+        "android_client_info": {
+          "package_name": "lk.example.chalatchoco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEq1pPwCL4TnCqWVWnHhVKDUsGqCEbsJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
